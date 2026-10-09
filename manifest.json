@@ -1,0 +1,9 @@
+{
+  "id": "visor-gemini",
+  "name": "Visor + Gemini",
+  "version": "2.20.0",
+  "minAppVersion": "1.5.0",
+  "description": "Visor de PDF (por defecto), DjVu, EPUB, Word, Excel y texto con todas las paginas seguidas, buscador, y Gemini integrado: conversacion por voz que lee, cita y resalta el libro, mapas mentales multicolores, modo prueba, resumenes en notas nuevas y grabacion de clases con transcripcion gratis sin internet (todas las API keys en paralelo), modo ahorro de cuota con bateria y hora de reinicio, y Mistral de respaldo. Incluye Gemini Voice Chat completo. Seccion de ingles: mazos, cartas con imagen por palabra clave, repaso, reading, writing y practica con la IA. Botón naranja en la barra lateral que abre todas las funciones a pantalla completa, con una demo guiada (?) dentro de cada una, y búsqueda de archivos ordenada por carpeta y subcarpeta (también en Abrir rápido y Buscar de Obsidian). Las imágenes nuevas se guardan solas en la carpeta «imagenes». El computador recibe siempre y el celular se sincroniza solo con él, incluidos los plugins.",
+  "author": "maxi",
+  "isDesktopOnly": false
+}
